@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:black;">
+/* style the header */
+<h1 style="color: White; font-family : 'Courier New', Courier, monospace;">Ujwal is making inclusive transportation.</h1>
+
+<p><a href="https://www.instagram.com/unujwal/" target="_blank" style="color: white";>ig</a></p>
+<p><a href="https://twitter.com/unujwal" target="_blank" style="color: white;">twtr</a></p>
+<p><a href="https://www.linkedin.com/in/unujwal/" target="_blank" style="color: white;">linkedin</a></p>
+
+<p style="color: White; font-family : 'arial', Courier, monospace;">currently at:</p>
+<p><a href="http://engineering.buffalo.edu/industrial-systems.html" target="_blank" style="color: white;">college</a></p>
+<p><a href="https://www.buffalo.edu/entrepreneurship.html" target="_blank" style="color: white;">blackstone launchpad</a></p>
+
+
+
+<p style="color: White; font-family : 'arial', Courier, monospace;">Previously at:</p>
+<p><a href="https://atlan.com/" target="_blank" style="color: white;">atlan</a></p>
+<p><a href="https://www.ey.com/en_us" target="_blank" style="color: white;">ernst & young</a></p>
+
+</body>
+</html>
