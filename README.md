@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Page Title</title>
 </head>
 <body style="background-color:black;">
 
