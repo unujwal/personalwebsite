@@ -5,9 +5,6 @@
 <body style="background-color:black;">
 
 
-body {text-align: center;}
-
-</style>
 <h1 style="color: White; font-family : 'Trebuchet MS', Courier, monospace;font-size: 60px;">Ujwal is making inclusive transportation.</h1>
 
 
