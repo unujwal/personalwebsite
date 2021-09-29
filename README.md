@@ -8,7 +8,7 @@
 
 
 <p style="color: White; font-family : 'arial', Courier, monospace;  font-family : American Typewriter; font-size: 30px">currently at</p>
-<p><a href="http://engineering.buffalo.edu/industrial-systems.html" target="_blank" style="color: white;  font-family : American Typewriter">college</a></p>
+<p><a href="http://engineering.buffalo.edu/industrial-systems.html" target="_blank" style="color: white;  font-family : American Typewriter">University at Buffalo</a></p>
 <p><a href="https://www.buffalo.edu/entrepreneurship.html" target="_blank" style="color: white;  font-family : American Typewriter">blackstone launchpad</a></p>
 
 
