@@ -26,7 +26,3 @@
 <p><a href="https://www.instagram.com/unujwal/" target="_blank" style="color: white; font-family : American Typewriter">ig</a></p>
 <p><a href="https://twitter.com/unujwal" target="_blank" style="color: white;  font-family : American Typewriter">twtr</a></p>
 <p><a href="https://www.linkedin.com/in/unujwal/" target="_blank" style="color: white;  font-family : American Typewriter">linkedin</a></p>
-
-
-</body>
-</html>
