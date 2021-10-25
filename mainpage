@@ -2,13 +2,8 @@
 <html>
 <head>
 <title>Page Title</title>
-
-
-
-/* style the header */
-<style>
-
-</style>
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 style="color: White; font-family : 'Trebuchet MS', Courier, monospace;font-size: 60px;">Ujwal is studying inclusive design for B2B SaaS.</h1>
 
 
@@ -35,8 +30,7 @@
 <br />
 <br />
 
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 
 <p style="color: White; font-family : 'arial', Courier, monospace; font-family : American Typewriter; font-size: 30px">connect
