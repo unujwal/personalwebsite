@@ -4,7 +4,7 @@
 <body style="background-color:black;">
 
 
-<h1 style="color: White; font-family : 'Trebuchet MS', Courier, monospace;font-size: 60px;">Ujwal is making inclusive transportation.</h1>
+<h1 style="color: White; font-family : 'Trebuchet MS', Courier, monospace;font-size: 60px;">Ujwal is studying inclusive design for B2B SaaS.</h1>
 
 
 <p style="color: White; font-family : 'arial', Courier, monospace;  font-family : American Typewriter; font-size: 30px">currently at</p>
